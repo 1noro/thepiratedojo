@@ -39,7 +39,7 @@ function next(_status) {
 			box.innerHTML='<span onclick="next(12)" class="clickable">Me da igual que protestes.</span>';
 		break;
 		case 12:
-			box.innerHTML='<span onclick="next(13)" class="clickable">Es el nombre propicio para un recluta.</span>';
+			box.innerHTML='<span onclick="next(13)" class="clickable">Es el nombre propicio para un grumete como tu.</span>';
 		break;
 		case 13:
 			box.innerHTML='<span onclick="next(14)" class="clickable">Y me da igual que seas un niñito u una niñita...</span>';
