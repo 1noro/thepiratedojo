@@ -65,7 +65,7 @@ function next(_status) {
 			box.innerHTML='Muy bien joven Jim ¿Listo para zarpar en busca de aventuras?<br><span onclick="next(20)" class="clickable color-hover">¡SIIII!</span>';
 		break;
 		case 20:
-			box.innerHTML='<span onclick="window.location.href=\'cnt/list.html\';" class="clickable">¡ARRRRGGGG!<br>Zarpamos...</span>';
+			box.innerHTML='<span onclick="window.location.href=\'cnt/mejortorrent-portada/index.html\';" class="clickable">¡ARRRRGGGG!<br>Zarpamos...</span>';
 		break;
 		default:
 			box.innerHTML='<span onclick="next(2)" class="clickable">Hola ¡ARGG! bienvenido@ al dojo del pirata.<br>(pulsa para continuar)</span>';

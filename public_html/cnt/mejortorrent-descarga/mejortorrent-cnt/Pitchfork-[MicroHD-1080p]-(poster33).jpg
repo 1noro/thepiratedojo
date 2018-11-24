@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>MejorTorrent.com - Descargar Torrents de Peliculas Series y estrenos</title>
+<!--<meta name="description" content="Podrás descargar peliculas y series divx en español con torrents para bittorrent, siempre a la última con películas y otras muchas descargas!">-->
+<!--<link rel="canonical" href="https://mejortorrent1.com"/>-->
+<link href="https://mejortorrent1.com/wp-content/themes/MejorTorrent/landing/bootstrap.min.css" rel="stylesheet">
+<link href="https://mejortorrent1.com/wp-content/themes/MejorTorrent/landing/styles.css?v=1.5" rel="stylesheet">
+<link href="https://mejortorrent1.com/wp-content/themes/MejorTorrent/landing/css/icons.css" rel="stylesheet">
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-109489624-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-109489624-1');
+    </script>
+<meta name="google-site-verification" content="AjA5ccmMCQigoT65Ph0CPhRX-8eTLvlr2dQ7Fyeh9fc" />
+
+<!-- This site is optimized with the Yoast SEO plugin v8.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="MejorTorrent - La web de descargas torrent por excelencia, aqui encontraras las mejores peliculas y series con la mejor calidad. Estrenos y pelis del 2018 completamente en Español para bittorrent y uTorrent"/>
+<link rel="canonical" href="https://mejortorrent1.com/" />
+<link rel="next" href="https://mejortorrent1.com/page/2/" />
+<meta property="og:locale" content="es_VE" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="MejorTorrent.com - Descargar Torrents de Peliculas Series y estrenos" />
+<meta property="og:description" content="MejorTorrent - La web de descargas torrent por excelencia, aqui encontraras las mejores peliculas y series con la mejor calidad. Estrenos y pelis del 2018 completamente en Español para bittorrent y uTorrent" />
+<meta property="og:url" content="https://mejortorrent1.com/" />
+<meta property="og:site_name" content="MejorTorrent.com" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="MejorTorrent - La web de descargas torrent por excelencia, aqui encontraras las mejores peliculas y series con la mejor calidad. Estrenos y pelis del 2018 completamente en Español para bittorrent y uTorrent" />
+<meta name="twitter:title" content="MejorTorrent.com - Descargar Torrents de Peliculas Series y estrenos" />
+<script type='application/ld+json'>{"@context":"https:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/mejortorrent1.com\/","name":"MejorTorrent.com","potentialAction":{"@type":"SearchAction","target":"https:\/\/mejortorrent1.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/mejortorrent1.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=58a0a4ba7656c1804744001b7bd52274"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='https://api.w.org/' href='https://mejortorrent1.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://mejortorrent1.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://mejortorrent1.com/wp-includes/wlwmanifest.xml" /> 
+
+<!--[if lt IE 9]>
+	<script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+</head>
+<style>
+.search-categories {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+.search-categories li{
+  display: inline-block;
+  margin: 0 2%;
+  vertical-align: top;
+}
+.search-categories .library {
+  color: #89ad19;
+  display: block;
+  font-family: "Opensans Light";
+  font-size: 13px;
+  line-height: 1.2;
+}
+.search-categories .library:hover {
+  color: #bcdc57;
+}
+.search-categories h3{
+  color: #f14f14;
+  font-size: 18px;
+  font-family: 'Oswald Light';
+  margin-bottom: 7px;
+  text-transform: uppercase;
+}
+.search-categories h3 a:hover {
+  text-decoration: underline;
+}
+.search-categories small.search-cat a{
+  margin: 5px 0 3px 0;
+  display: block;
+  font:13px 'Opensans Light';
+  color: #8b8b8b;
+  text-transform: none;
+}
+.search-categories small.search-cat a:hover {
+  text-decoration: underline;
+}
+.search-categories a {
+  display: block;
+}
+.search-categories a:hover .icon:after{
+  display: none;
+}
+.search-categories .icon{
+  display: block;
+  color: #fff;
+  height: 65px;
+  width: 65px;
+  margin: 0 auto 20px; /* for centered Align */ 
+  line-height: 58px;
+  background-color: #79c142;
+  border: 3px solid #79c142;
+  border-radius: 100px;
+  position: relative;
+}
+.search-categories .icon:after {
+  content: '';
+  position: absolute;
+  right: 0;
+  top: -6px;
+  background-color: #7ed839;
+  height: 100%;
+  width: 50%;
+  transform: rotate(-20deg);
+  border-bottom-right-radius: 100px;
+  border-top-right-radius: 100px;
+}
+.search-categories .icon i {
+  display: inline-block;
+  font-size: 25px;
+  position: relative;
+  z-index: 99;
+}
+</style>
+<body>
+<div class="site-wrapper">
+<div class="site-wrapper-inner">
+<div class="cover-container">
+<div class="masthead clearfix">
+<div class="inner">
+<nav>
+<ul class="nav masthead-nav">
+<li class="active"><a href="https://mejortorrent1.com" title="Home">Mejortorrent</a></li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="inner cover">
+<h1 class="cover-heading"><a href="https://mejortorrent1.com" title="Mejortorrent"><img alt="Mejortorrent" src="https://mejortorrent1.com/wp-content/themes/MejorTorrent/landing/images/logo.png"></a></h1>
+<div class="addthis_native_toolbox"></div>
+<form class="search_promo" method="get" action="https://mejortorrent1.com/buscador/">
+<div class="input-group">
+<input type="text" class="form-control" name="search" required placeholder="torrent ...">
+<span class="input-group-addon btn_promo_search">
+<button type="submit" class="btn btn-success">Buscar</button>
+</span>
+</div>
+</form>
+<div class="text-center">
+<a href="https://mejortorrent1.com/principal-2/" class="btn btn-success">Use la version anterior? haga clic aqui</a>
+</div>
+</div>
+
+<ul class="search-categories" style="margin-bottom: 80px;margin-top:80px;">
+<li>
+<h3 style="font-family: inherit; text-transform: none" ><a rel="bookmark" href="https://mejortorrent1.com/peliculas-8/" title="Peliculas"><span class="icon"><i class="flaticon-movies"></i></span>Peliculas </a></h3>
+</li>
+<li>
+<h3 style="font-family: inherit; text-transform: none" ><a rel="bookmark" href="https://mejortorrent1.com/peliculas-hd/" title="Peliculas HD"><span class="icon"><i class="flaticon-hd"></i></span>Peliculas HD</a></h3>
+</li>
+<li>
+<h3 style="font-family: inherit; text-transform: none" ><a rel="bookmark" href="https://mejortorrent1.com/series/" title="Series"><span class="icon"><i class="flaticon-tv"></i></span>Series </a></h3>
+</li>
+<li>
+<h3 style="font-family: inherit; text-transform: none" ><a rel="bookmark" href="https://mejortorrent1.com/juegos/" title="Juegos"><span class="icon"><i class="flaticon-games"></i></span>Juegos </a></h3>
+</li>
+<li>
+<h3 style="font-family: inherit; text-transform: none" ><a rel="bookmark" href="https://mejortorrent1.com/musica/" title="Musics"><span class="icon"><i class="flaticon-music"></i></span>Musica </a></h3>
+</li>
+<li>
+<h3 style="font-family: inherit; text-transform: none" ><a rel="bookmark" href="https://mejortorrent1.com/documentales/" title="Documentries"><span class="icon"><i class="flaticon-documentary"></i></span>Documentales </a></h3>
+</li>
+<li>
+<h3 style="font-family: inherit; text-transform: none" ><a rel="bookmark" href="https://mejortorrent1.com/variados/" title="Other"><span class="icon"><i class="flaticon-other"></i></span>Variados </a></h3>
+</li>
+</ul>
+
+<div class="mastfoot" style="position:fixed;text-align: center;bottom: 0px;">
+<a href="//www.dmca.com/Protection/Status.aspx?ID=0bd17564-3c91-442f-94fb-d5b932c34c08" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/_dmca_premi_badge_4.png?ID=0bd17564-3c91-442f-94fb-d5b932c34c08"  alt="DMCA.com Protection Status" /></a>  <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script>
+<div style="margin-top:10px;margin-bottom:20px;">
+<p>Copyright © <a href="https://mejortorrent1.com">MejorTorrent1.com</a> All Rights Reserved.</p>
+</div>
+</div>
+</div>
+</div>
+</body>
+
+
+</html>
