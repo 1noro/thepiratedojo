@@ -1,0 +1,52 @@
+* {
+	
+}
+
+body {
+	margin: 0;
+	font-family: 'Indie Flower', cursive;
+	background-color: #000;
+	background-image: url("../img/fondo2lq-inv.jpg");
+	background-size: 100%;
+	font-size: 17px;
+	color: #fff;
+}
+
+/*--------------------------------------------------------------------*/
+
+
+
+/*--------------------------------------------------------------------*/
+
+div.vertical-text {
+	height: 300px;
+	line-height: 300px;
+	text-align: center;
+}
+
+span.vertical-text {
+	display: inline-block;
+	vertical-align: middle;
+	line-height: normal;
+}
+
+.clickable {cursor: pointer;}
+
+.color-hover:hover {color: #ecba4d;}
+
+.little-text {font-size: 0.8em;}
+
+.texto-blanco-sobre-fondo {text-shadow: 0px 0px 5px rgba(0,0,0,0.98);}
+
+.big-tittle {
+	font-size: 3em;
+	font-weight: bold;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	color: #fff;
+}
